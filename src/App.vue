@@ -9,12 +9,26 @@
   </div>
 
   <div class="button-holder">
-    <a class="button eva">Eva</a><span>&</span>
+    <a class="button eva">
+      Eva
+    </a><span>&</span>
     <a class="button tijmen">Tijmen</a>
   </div>
 <div class="container">
-  <p class="text" id="eva">Text voor Eva</p>
-  <p class="text" id="tijmen">Text voor Tijmen</p>
+  <p class="text" id="eva">Lieve Eva,<br><br>
+    De sint heeft jou afgelopen jaar leren kennen en is blij dat jij onze familie komt vergezellen. Wat ben jij een hardwerkende en slimme meid, die voor studeren en een extra commissie erbij niet wijkt. Ook voor andere nieuwe uitdagingen ga je niet uit de weg, de eerste keer skiën, kletteren en mountainbiken toevallig allemaal vanaf een bergweg.<br><br>
+    Door al die drukke bezigheden moet je slim omgaan met je tijd, van een wekker zoals jullie bedacht hadden krijg je daarom bepaald geen spijt. Jullie eigen plan voor een zelfgemaakte wekker, kon al haast niet gekker. Toch heeft de sint flink zijn best gedaan, tot aan het verkrijgen van grijze haren, om jullie plan te evenaren.<br><br>
+    Mocht je met behulp van deze wekker toch wat tijd over hebben om te ontspannen, kijk dan maar snel in het linker laatje van het nachtkastje om je te laten inspireren en toch ook een beetje door te leren.<br><br>
+    Liefs,<br>
+    Sint en Piet</p>
+  <p class="text" id="tijmen">Lieve Tijmen,<br><br>
+    De spotlight richt zich nu op jou, dus laten we snel beginnen voordat we verkleumen in deze winterkou.  Ook jij bent heel druk met allerlei plannen bezig en bij verenigingen aanwezig. Klimmen bij de ESAC is wel echt jou ding, helaas is het prijzen pakken bij de EPlaKKa nog gering. ;) Op je studie gaat het wat beter, en daarnaast ben je gelukkig nog altijd een goede eter. Het eetpatroon is wel wat anders, vlees eten heeft vanwege onder andere het milieu toch wat tegenstanders.<br><br>
+    Met deze wekker zijn we ook heel duurzaam bezig, het gedicht printen is alleen in het verleden nog aanwezig. Maak maar snel het rechter laatje van het nachtkastje open, hopelijk zonder het te slopen. Daar vind je literatuur over een fictief volgend avontuur.<br><br>
+    Liefs,<br>
+    (dezelfde) Sint en Piet<br><br>
+
+    joe joe!
+  </p>
 </div>
 </template>
 <script>
